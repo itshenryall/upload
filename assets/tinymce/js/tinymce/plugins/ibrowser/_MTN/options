@@ -1,0 +1,3 @@
+database "/data/mtndata/skymods.db"
+  branch "com.2skies.xarigami.addon.tinymce.ibrowser"
+  keydir "/home/jojo/.monotone/keys"
